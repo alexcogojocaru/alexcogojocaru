@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexcogojocaru
 - 👀 I’m interested in microservices, cloud ☁️, distributed systems
-- 🌱 I’m currently learning golang 🥳
+- 🌱 I’m currently learning golang and anything related to distributed systems 🥳
 - 📫 How to reach me alex.cojocaru73@gmail.com 
 
 <!---
