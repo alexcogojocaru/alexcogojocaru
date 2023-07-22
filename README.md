@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alexcogojocaru
-- 👀 I’m interested in microservices, cloud ☁️, distributed systems
-- 🌱 I’m currently learning golang and anything related to distributed systems 🥳
-- 📫 How to reach me alex.cojocaru73@gmail.com 
+- 👀 I’m interested in microservices, cloud ☁️, distributed systems, low level containerization.
 
 <!---
 alexcogojocaru/alexcogojocaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
